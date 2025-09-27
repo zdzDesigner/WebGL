@@ -6,6 +6,7 @@ import logo from "./logo.svg"
 import reactLogo from "./react.svg"
 
 export function App() {
+  console.log('xx')
   return (
     <div className="app">
       <div className="logo-container">
